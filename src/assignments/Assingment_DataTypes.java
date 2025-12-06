@@ -97,6 +97,8 @@ public class Assingment_DataTypes {
 		float distanceTwoCities = 200.5f;
 		System.out.println("Distance between two cities: "+distanceTwoCities);
 		
+		String name = "completed first assignment successfully";
+		System.out.println("assignment is: "+name);
 	
 		
 		
