@@ -14,8 +14,6 @@ public class Assingment_DataTypes {
 		
 		// 3.Person's phone number: "123-456-7890"
 		
-		long phoneNumner = 234567890l;
-		System.out.println("Person's phone number: "+phoneNumner);
 		
 		String phoneNumber1 = "123-456-7890";
 		System.out.println("Person's phone number: " +phoneNumber1);
@@ -55,7 +53,8 @@ public class Assingment_DataTypes {
 		
 		//11.Number of followers on a social media platform: 1,000,000
 		
-		double socialMediaPlatform = 100000d;
+		
+		String socialMediaPlatform = "1,000,000";
 		System.out.println("Number of followers on a social media platform: "+socialMediaPlatform);
 		
 		//12.Rating of a movie: 7.5
