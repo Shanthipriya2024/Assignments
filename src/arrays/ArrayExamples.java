@@ -11,6 +11,7 @@ public class ArrayExamples {
 
 		// Store 3 employee ids in an array
 		int[] empIds = { 101, 102, 103 };
+		
 
 		/****** Creating an array when we don't know the values ******/
 
@@ -28,6 +29,7 @@ public class ArrayExamples {
 		
 		System.out.println("Employee Names from empNames array:"+empNames[0]);
 		System.out.println("Employee IDs from empIds2 array:"+empIds2[1]);
+		System.out.println(empNames2[1]+ " "+empIds2[2]);
 		
 		/****** ArrayIndexOutOfBoundsException ******/
 		
